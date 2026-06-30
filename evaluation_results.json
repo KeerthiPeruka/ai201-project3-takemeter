@@ -1,0 +1,12 @@
+{
+  "baseline_accuracy": 0.7667,
+  "finetuned_accuracy": 0.4,
+  "improvement": -0.3667,
+  "test_set_size": 30,
+  "label_map": {
+    "Recipes & Meal Ideas": 0,
+    "Help & Troubleshooting": 1,
+    "Discussion & Opinions": 2
+  },
+  "model": "distilbert-base-uncased"
+}
