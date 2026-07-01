@@ -5,6 +5,8 @@ AI201 Project 3 - Text Classifier
 
 This project fine tunes a DistilBERT model to classify Reddit posts from cooking related communities into one of three categories based on the main purpose of each post. A dataset of 200 manually labeled Reddit posts was created and used to train the model. The fine tuned model was then compared with a zero shot baseline using Groq's Llama 3.3 70B model.
 
+## Demo : https://screenpal.com/content/video/cOiV1UnUQZ0 
+
 ---
 
 # Dataset
