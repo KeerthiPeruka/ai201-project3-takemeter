@@ -294,7 +294,7 @@ I used ChatGPT to review sections of the training pipeline, and suggest changes 
 
 ## AI Use 2
 
-I used ChatGPT to help interpret the evaluation results, including the confusion matrix, precision, recall, and F1 score, and to organize the README so it addressed all of the project requirements. I reviewed the notebook outputs myself, verified the reported metrics, and revised the explanations before including them in the final submission.
+I used ChatGPT to help interpret the evaluation results, including the confusion matrix, precision, recall, and F1 score based on project requirements. I reviewed the notebook outputs myself, verified the reported metrics, and fixed the errors when needed.
 
 ---
 
